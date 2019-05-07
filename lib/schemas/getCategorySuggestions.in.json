@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "category_tree_id": {
+            "required": true,
+            "type": "string"
+        },
+        "q": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}

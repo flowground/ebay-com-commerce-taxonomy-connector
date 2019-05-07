@@ -1,0 +1,21 @@
+{
+    "type": "object",
+    "properties": {
+        "category_tree_id": {
+            "required": true,
+            "type": "string"
+        },
+        "compatibility_property": {
+            "required": true,
+            "type": "string"
+        },
+        "category_id": {
+            "required": true,
+            "type": "string"
+        },
+        "filter": {
+            "required": false,
+            "type": "string"
+        }
+    }
+}
